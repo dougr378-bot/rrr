@@ -2,7 +2,7 @@
 -- This source is compiled together with the separate key gate and dashboard modules.
 -- Paste only the generated Squid-MAIN-PASTEBIN.lua into Pastebin.
 -- Owner: the license server must be deployed over HTTPS before activation can work.
-local API_BASE = [=[https://alien-wax-conclusions-gains.trycloudflare.com]=]
+local API_BASE = [=[https://abroad-affiliates-airports-rom.trycloudflare.com]=]
 local VERSION = "2.1.0"
 
 if not game:IsLoaded() then game.Loaded:Wait() end
